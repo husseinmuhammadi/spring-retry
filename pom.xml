@@ -97,19 +97,19 @@
             <!-- Project Modules -->
             <dependency>
                 <groupId>${project.groupId}</groupId>
-                <artifactId>bpmn-parser-api</artifactId>
+                <artifactId>spring-retry-api</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
                 <groupId>${project.groupId}</groupId>
-                <artifactId>bpmn-parser-service</artifactId>
+                <artifactId>spring-retry-service</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
                 <groupId>${project.groupId}</groupId>
-                <artifactId>bpmn-parser-repository</artifactId>
+                <artifactId>spring-retry-repository</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
